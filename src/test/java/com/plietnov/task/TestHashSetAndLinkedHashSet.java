@@ -8,6 +8,7 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 
 public class TestHashSetAndLinkedHashSet {
+
     private Map<KeyHashLength, Integer> hashMapLength = new HashMap<>();
     private Map<KeyHashSum, Integer> hashMapSum = new HashMap<>();
     private Map<KeyHashLength, Integer> linkedHashMapLength = new LinkedHashMap<>();

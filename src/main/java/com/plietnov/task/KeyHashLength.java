@@ -3,6 +3,7 @@ package com.plietnov.task;
 import java.util.Objects;
 
 public class KeyHashLength {
+
     private String key;
 
     public KeyHashLength(String key) {

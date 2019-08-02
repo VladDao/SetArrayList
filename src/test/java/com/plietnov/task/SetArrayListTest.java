@@ -10,6 +10,7 @@ import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 
 public class SetArrayListTest {
+
     private List<KeyHashLength> testListLength = new SetArrayList<>();
     private List<KeyHashSum> testListSum = new SetArrayList<>();
 
